@@ -1,0 +1,28 @@
+{
+  "total_order_value": 1264761.96,
+  "orders": 1200,
+  "average_order_value": 1053.9683,
+  "returned_cancelled_value": 519673.91,
+  "outlier_count": 8,
+  "top_product": {
+    "Product": "Chair",
+    "Orders": 178,
+    "Revenue": 195620.11,
+    "Quantity": 562,
+    "Avg_Order": 1098.9893820224718
+  },
+  "top_source": {
+    "ReferralSource": "Instagram",
+    "Orders": 259,
+    "Revenue": 275285.45,
+    "Quantity": 770,
+    "Avg_Order": 1062.8781853281853
+  },
+  "best_month": {
+    "Month": "2024-06",
+    "Orders": 53,
+    "Revenue": 68068.54000000001,
+    "Avg_Order": 1284.3120754716983
+  },
+  "latest_month_mom_pct": 22.23849588355229
+}
